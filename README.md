@@ -1,1 +1,3 @@
 # UpdateDebianKernelNote
+
+Debian升级内核导致无法进入KDE桌面系统修复记录
